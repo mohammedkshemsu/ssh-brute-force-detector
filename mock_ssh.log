@@ -15,5 +15,3 @@ Jan 12 14:45:15 server sshd[12358]: Failed password for root from 192.168.1.105 
 Jan 12 14:46:20 server sshd[12359]: Failed password for root from 192.168.1.105 port 22 ssh2
 Jan 12 14:47:25 server sshd[12360]: Failed password for root from 192.168.1.105 port 22 ssh2
 Jan 12 14:48:30 server sshd[12361]: Failed password for root from 192.168.1.105 port 22 ssh2
-Jan 12 14:48:30 server sshd[12362]: Failed password for root from 192.168.1.105 port 22 ssh2
-Jan 12 14:48:30 server sshd[12362]: Failed password for root from 192.168.1.105 port 22 ssh2
